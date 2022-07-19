@@ -10,7 +10,7 @@ namespace images {
      */
     //% block
     //% group="animation"
-    export function createAnimation(makeAnimation: TemplateStringsArray): void {
+    export function  createAnimation(makeAnimation: TemplateStringsArray, image: Image): void {
 
         let animation = [makeAnimation]
     }
