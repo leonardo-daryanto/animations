@@ -4,7 +4,6 @@ enum switchEnum {
     //% block="no"
     No,
 }
-
 namespace images {
     /**
      *  make a animation
